@@ -66,7 +66,7 @@ Este caminho é o fluxo em que se consulta o Banco de Dados e não encontra nenh
 
 **N1 -> N2 -> N3 -> N4 -> N5 -> N6 -> N7(true) -> N8 -> N9**
 
-Este caminho é o fluxo em que se consulta o Banco de Dados e encontra um usuário. Aqui o "result" muda para true, atribui o nome ao usuário e finaliza retornando o valor.
+Este caminho é o fluxo em que se consulta o Banco de Dados e encontra um usuário. Aqui o "result" é true, atribui o nome ao usuário e finaliza retornando o valor.
 
 ---
 
