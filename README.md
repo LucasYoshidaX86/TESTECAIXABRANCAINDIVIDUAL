@@ -10,4 +10,4 @@ Este repositório contém o código analisado durante a atividade, teste de caix
 Arquivo analisado: **User.java**
 
 ```java
-(https://github.com/LucasYoshidaX86/TESTECAIXABRANCAINDIVIDUAL.git)
+https://github.com/LucasYoshidaX86/TESTECAIXABRANCAINDIVIDUAL.git
